@@ -1,2 +1,3 @@
-# privacybadges
-Hive Toronto Privacy Badges work
+# Hive Toronto Privacy Badges
+
+More details here: http://hivetoronto.org/portfolio/privacybadges/
